@@ -1,4 +1,4 @@
-{
+   {
   "EOSIO":[
     {
       "applink":"se7en",
@@ -284,3 +284,11 @@
   "Ethereum":[],
   "Tron":[]
 }
+  {
+      "applink":"farmeos.io",
+      "name":"FarmEOS",
+      "type":"Game",
+      "description":"",
+      "url":"https://www.farmeos.io/",
+      "hasimage":"1"
+    }
