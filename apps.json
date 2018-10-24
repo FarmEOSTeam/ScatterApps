@@ -1,4 +1,12 @@
-{
+    {
+      "applink":"farmeos",
+      "name":"FarmEOS",
+      "type":"Game",
+      "description":"",
+      "url":"https://www.farmeos.io/",
+      "hasimage":"1"
+    },
+    {
   "EOSIO":[
     {
       "applink":"se7en",
